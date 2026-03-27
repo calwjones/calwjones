@@ -10,7 +10,7 @@
 
 ## About Me
 
-hii im callum — a final year compsci student at UWE Bristol with a focus on systems programming, game development, and full-stack applications. Currently building a 2D game engine from scratch in C++ for my final project.
+hii im callum, a final year compsci student at UWE Bristol with a focus on systems programming, game development, and full-stack applications. Currently building a 2D game engine from scratch in C++ for my final project.
 
 - 🔭 Currently working on a custom 2D game engine with SFML & Dear ImGui
 - 🎮 Built a Tetris clone with sand physics optimised for 60fps
