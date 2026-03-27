@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6366f1&height=220&section=header&text=Callum%20Jones&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=CS%20Student%20%7C%20Systems%20Programmer%20%7C%20Game%20Engine%20Builder&descSize=18&descAlignY=55&descColor=a5b4fc&animation=fadeIn" width="100%" />
 
-<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Final-year+CS+student+%40+UWE+Bristol;Building+a+2D+game+engine+from+scratch;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+Zig;the+goat.)](https://git.io/typing-svg)
 
 </div>
@@ -70,6 +68,21 @@ Tetris clone with two modes: Classic and Sand Physics. Sand mode turns pieces in
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5 Canvas](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 [Movie Picker](https://github.com/calwjones/MoviePicker)
+Movie Backlogger app with 2-person match swiper and roulette wheel for deciding what to watch together. Match each other's movie preferences and use the roulette to randomly pick from matched movies.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
