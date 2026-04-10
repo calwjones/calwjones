@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm Callum, a final-year Computer Science student at UWE Bristol specializing in systems programming and full-stack development. I am currently focused on building low-level tools and high-performance web applications.
+I'm Callum, a final-year Computer Science student at UWE Bristol specialising in systems programming and full-stack development. I am currently focused on building low-level tools and high-performance web applications.
 
 * **Current Focus:** Developing a custom 2D game engine in C++ using SFML and Dear ImGui for my final-year project.
 * **Systems & Graphics:** Built a particle-based Tetris clone optimized for 60fps and a GUI calculator with a custom Shunting-yard expression parser.
