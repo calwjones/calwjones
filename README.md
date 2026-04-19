@@ -10,12 +10,12 @@
 
 ## About Me
 
-I'm Callum, a final-year Computer Science student at UWE Bristol specialising in systems programming and full-stack development. I am currently focused on building low-level tools and high-performance web applications.
+I'm Callum, a final-year Computer Science student at UWE Bristol. My projects tend to split between low-level C++ work (engines, physics, graphics) and real-time full-stack web apps.
 
-* **Current Focus:** Developing a custom 2D game engine in C++ using SFML and Dear ImGui for my final-year project.
-* **Systems & Graphics:** Built a particle-based Tetris clone optimized for 60fps and a GUI calculator with a custom Shunting-yard expression parser.
-* **Full Stack:** Building real-time collaborative tools using Next.js, Express, and Socket.io.
-* **Location:** Based in Bristol, UK.
+* **Final-year project (submitted):** A C++17 2D platformer engine with a built-in Dear ImGui level editor. Scene hierarchy, property inspector, command-pattern undo/redo, JSON level save/load.
+* **Systems & graphics:** A Tetris variant with a sand-physics mode running ~3,200 particles per frame at 60fps, with path-based colour clears and a SQLite-backed leaderboard.
+* **Full stack:** MoviePicker, a real-time movie matching app (Socket.io, Prisma, JWT auth, Letterboxd CSV import) live at [matchsticked.com](https://matchsticked.com).
+* **Location:** Bristol, UK.
 
 ---
 
